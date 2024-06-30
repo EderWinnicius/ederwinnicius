@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ederwinnicius&show_icons=true&title_color=461C72&text_color=A42CF9&icon_color=783c00&bg_color=320597&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ederwinnicius&show_icons=true&title_color=EDE7F4&text_color=EDE7F4&icon_color=783c00&bg_color=320597&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Eder Oliveira!
 
