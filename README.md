@@ -1,6 +1,8 @@
-<img align='right' src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=ederwinnicius&show_icons=true&theme=radical&layout=compact" alt="GitHub Streak" >
 
 ### Olá, meu nome é Eder Oliveira!
+
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=EDER OLIVEIRA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <br>
 <br>
